@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718613966 source:c:\users\tenzi\onedrive\desktop\vacation project\c_learning\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
