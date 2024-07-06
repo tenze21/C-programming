@@ -16,5 +16,6 @@ int main()
 
     printf("You choose ");
     putchar(inputChar);
+
     return 0;
 }

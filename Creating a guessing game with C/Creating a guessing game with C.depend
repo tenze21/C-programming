@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720187242 source:c:\users\tenzi\onedrive\desktop\vacation project\c_learning\creating a guessing game with c\main.c
+	<stdio.h>
+	<stdlib.h>
+
