@@ -44,3 +44,4 @@ The languages that existed before C like in the 1950s and 1960s were all meant f
  - **Level of Abstraction**: The understanding of the workings of a computer can generally be broken down into several layers of abstraction like at the lowest level we have the hardware components like the CPU, memory, and input/output devices(monitor, keyboard, mouse) and somewhere in the middle lies the programming languages level where developers write code in human understanble language also known as high level language and on the top of everything we have the application layer where all the apps and web applications we use in our daily lives fall.
 
  - **Compiler**: A compiler is a program that converts source code into machine understandable code. All the high level languages like python have a compiler which converts the code into machine understandable code so that the computer can successfully execute the code. 
+
