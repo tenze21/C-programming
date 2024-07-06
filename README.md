@@ -9,32 +9,33 @@ To understand why we needed a language like C or any other programming language 
 In 1969-70 ken Thomson wrote the B language which stemed from or was primarily influenced by the BCPL(Basic Combined Programming Language) language and later C also took it's inspirations from the BCPL and the B language. It is also stated in the book as "Many of the most important ideas of C stem from the considerably older, but still quite vital, language BCPL, developed by Martin Richards. The influence of BCPL on C proceeded indirectly through the language B, which was written by Ken Thompson in 1970 for the first UNIX system on the [PDP-7](#appendix)". 
 
 The languages that existed before C like in the 1950s and 1960s were all meant for a specific field like FORTRAN(formula translation) developed in 1950 was designed for scientific and engineering computations and COBOL(Common Business Oriented Language) was designed for business, finance and administrative systems and many others; ALGOL, LISP and PL/I all had a specific purpose and worked on a higher [level of abstraction](#appendix) which meant they didn't have access to the computer's hardware. With the ever growing need for a flexible and powerful system programming language Dennis M. Ritchie created the C programming language in the early 1970s and later he and Brian W. Kernighan rewrote the UNIX operating system in C and all of the application software of UNIX was also written in C which made UNIX and it's application softwares portable across different computers as long as it had a C [compiler](#appendix). This set off the stage for the development of all the portable application softwares that we use on our devices these days without having to worry about whether you are using an IOS, android or a windows machine.
-
-<figure>
+<div style="display:flex;">
+    <figure>
     <img src="/images/ken-thompson.jpg"
-         alt="Ken Thomson">
+         alt="Ken Thomson" style="width:200px; height:200px;">
     <figcaption>Ken Thomson.</figcaption>
 </figure>
 <figure>
     <img src="/images/martin_richards.jpeg"
-         alt="Martin Richards">
+         alt="Martin Richards" style="width:200px; height:200px;">
     <figcaption>Martin Richards.</figcaption>
 </figure>
 <figure>
     <img src="/images/Dennis-Ritchie.jpg"
-         alt="Dennis Ritchie">
+         alt="Dennis Ritchie" style="width:200px; height:200px;">
     <figcaption>Dennis M. Retchie.</figcaption>
 </figure>
 <figure>
     <img src="/images/brian_kernighan.jpg"
-         alt="Brian W. kernighan">
+         alt="Brian W. kernighan" style="width:200px; height:200px;">
     <figcaption>Brian W. kernighan.</figcaption>
 </figure>
 <figure>
     <img src="/images/pdp-7.jpg"
-         alt="PDP-7">
+         alt="PDP-7" style="width:200px; height:200px;">
     <figcaption>The PDP-7.</figcaption>
 </figure>
+</div>
 
 ## 02. A Brief Introduction to C.
 
